@@ -1,4 +1,3 @@
-# Lab2
 # Max Yu
 
 GMBA Student in Tunghai University
